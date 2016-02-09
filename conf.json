@@ -1,0 +1,7 @@
+{
+    "services": {
+        "mymemorytranslatednet": {
+            "method": "web"
+        }
+    }
+}
